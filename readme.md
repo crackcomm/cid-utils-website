@@ -15,6 +15,8 @@ sysctl -w fs.inotify.max_user_watches=524288
 echo "fs.inotify.max_user_watches=524288" >>/etc/sysctl.conf
 ```
 
+Release: [QmUZiCoKSEPYnyhLNWvgvENq4Lmad8j7ctyEE7Enmej17B](https://ipfs.io/ipfs/QmUZiCoKSEPYnyhLNWvgvENq4Lmad8j7ctyEE7Enmej17B)
+
 ---
 
 License MIT 2018
